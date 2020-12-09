@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cyan.bmp</file>
+        <file>gray.bmp</file>
+        <file>green.bmp</file>
+        <file>magenta.bmp</file>
+        <file>orange.bmp</file>
+        <file>red.bmp</file>
+        <file>white.bmp</file>
+        <file>yellow.bmp</file>
+        <file>print.bmp</file>
+        <file>find.bmp</file>
+        <file>letter0.jpg</file>
+        <file>letter1.jpg</file>
+        <file>letter2.jpg</file>
+        <file>barcoder.bmp</file>
+        <file>refresh.png</file>
+        <file>change.bmp</file>
+        <file>clear.bmp</file>
+        <file>history.png</file>
+        <file>folder_add.bmp</file>
+        <file>folder_del.bmp</file>
+        <file>folder_lock.bmp</file>
+        <file>folder_out.bmp</file>
+        <file>archive.bmp</file>
+        <file>recycler.bmp</file>
+        <file>backtime.bmp</file>
+        <file>folder.bmp</file>
+        <file>folder2.bmp</file>
+    </qresource>
+</RCC>
